@@ -1,6 +1,6 @@
 <div align="center">
 
-$\textcolor{#0F32B3}{\text{Welcome to a world of trepidation...}}$
+$\textcolor{#0F32B3}{\text{Welcome to a world of trepidation ...}}$
 
 ![Image Alt](https://files.catbox.moe/7bilzd.webp)
 
