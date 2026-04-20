@@ -5,7 +5,7 @@
 
 $\textcolor{#ffffff}{\text{✦}}$
 
-<img width="70" src="https://komarev.com/ghpvc/?username=djhallyboo&color=ffffff&label=SINNERS">
+<img width="70" src="https://komarev.com/ghpvc/?username=djhallyboo&color=4A3E4C&label=stalkers">
 
 [atabook](https://djhallyboo.atabook.org/) [strawpage](https://hosthoedown.straw.page/)
 
