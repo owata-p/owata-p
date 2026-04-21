@@ -12,4 +12,4 @@ $\textcolor{#ffffff}{\text{✦}}$
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tun4g3oquqldxlem2ytxhgji44&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<sup><sub>***newmaker*** on airbuds, lets moot up (..◜ᴗ◝..)</sub></sup>
+<sup><sub>(..◜ᴗ◝..)</sub></sup>
