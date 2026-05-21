@@ -1,5 +1,8 @@
 
 <div align="center">
+
+‎<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant&weight=300&size=17&duration=3000&pause=10&color=ffffff&center=true&vCenter=true&width=500&height=21&lines=you+showed+care+her+red,+blurry+reflection+in+a+vase;you+said,+'do+you+see+that?+look+how+ugly+you+are+now.';care+squinted+her+eyes.;the+reflection+wasn't+clear+at+all;but+as+you+began+to+describe+her+grisly+deformities,;she+began+to+'see'+them." alt="Typing SVG" /></a>
+
   
 <img width="255" height="200" alt="funkscop-petscop" src="https://github.com/user-attachments/assets/17025b12-15dc-458d-98f3-bab81293e296" />
 
